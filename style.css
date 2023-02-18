@@ -1,0 +1,22 @@
+body{margin: 0;background-color: rgb(10, 99, 99);}
+canvas{
+    background-color: rgb(11, 11, 79);
+
+}
+
+#buttons{
+    display: flex;
+    
+}
+
+#direction-buttons *{
+ background-color: aqua;
+}
+
+#speed-buttons *{
+    background-color: #ec5959;
+}
+
+#alt-buttons *{
+    background-color: #abde11;
+}
